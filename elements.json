@@ -1,0 +1,1234 @@
+{
+  "buttons": [
+    {
+      "element": "button",
+      "text": "",
+      "id": "",
+      "classes": "close",
+      "attributes": {
+        "name": "",
+        "disabled": false,
+        "onclick": null
+      }
+    },
+    {
+      "element": "button",
+      "text": "",
+      "id": "",
+      "classes": "btn btn-secondary",
+      "attributes": {
+        "name": "",
+        "disabled": false,
+        "onclick": null
+      }
+    },
+    {
+      "element": "button",
+      "text": "",
+      "id": "",
+      "classes": "btn btn-primary",
+      "attributes": {
+        "name": "",
+        "disabled": false,
+        "onclick": "send()"
+      }
+    },
+    {
+      "element": "button",
+      "text": "",
+      "id": "",
+      "classes": "close",
+      "attributes": {
+        "name": "",
+        "disabled": false,
+        "onclick": null
+      }
+    },
+    {
+      "element": "button",
+      "text": "",
+      "id": "",
+      "classes": "btn btn-secondary",
+      "attributes": {
+        "name": "",
+        "disabled": false,
+        "onclick": null
+      }
+    },
+    {
+      "element": "button",
+      "text": "",
+      "id": "",
+      "classes": "btn btn-primary",
+      "attributes": {
+        "name": "",
+        "disabled": false,
+        "onclick": "register()"
+      }
+    },
+    {
+      "element": "button",
+      "text": "",
+      "id": "",
+      "classes": "close",
+      "attributes": {
+        "name": "",
+        "disabled": false,
+        "onclick": null
+      }
+    },
+    {
+      "element": "button",
+      "text": "",
+      "id": "",
+      "classes": "btn btn-secondary",
+      "attributes": {
+        "name": "",
+        "disabled": false,
+        "onclick": null
+      }
+    },
+    {
+      "element": "button",
+      "text": "",
+      "id": "",
+      "classes": "btn btn-primary",
+      "attributes": {
+        "name": "",
+        "disabled": false,
+        "onclick": "logIn()"
+      }
+    },
+    {
+      "element": "button",
+      "text": "",
+      "id": "",
+      "classes": "close",
+      "attributes": {
+        "name": "",
+        "disabled": false,
+        "onclick": null
+      }
+    },
+    {
+      "element": "button",
+      "text": "",
+      "id": "",
+      "classes": "vjs-big-play-button",
+      "attributes": {
+        "name": "",
+        "disabled": false,
+        "onclick": null
+      }
+    },
+    {
+      "element": "button",
+      "text": "",
+      "id": "",
+      "classes": "vjs-play-control vjs-control vjs-button",
+      "attributes": {
+        "name": "",
+        "disabled": false,
+        "onclick": null
+      }
+    },
+    {
+      "element": "button",
+      "text": "",
+      "id": "",
+      "classes": "vjs-mute-control vjs-control vjs-button vjs-vol-3",
+      "attributes": {
+        "name": "",
+        "disabled": false,
+        "onclick": null
+      }
+    },
+    {
+      "element": "button",
+      "text": "",
+      "id": "",
+      "classes": "vjs-seek-to-live-control vjs-control vjs-at-live-edge",
+      "attributes": {
+        "name": "",
+        "disabled": false,
+        "onclick": null
+      }
+    },
+    {
+      "element": "button",
+      "text": "",
+      "id": "",
+      "classes": "vjs-playback-rate vjs-menu-button vjs-menu-button-popup vjs-button",
+      "attributes": {
+        "name": "",
+        "disabled": false,
+        "onclick": null
+      }
+    },
+    {
+      "element": "button",
+      "text": "",
+      "id": "",
+      "classes": "vjs-chapters-button vjs-menu-button vjs-menu-button-popup vjs-button",
+      "attributes": {
+        "name": "",
+        "disabled": false,
+        "onclick": null
+      }
+    },
+    {
+      "element": "button",
+      "text": "",
+      "id": "",
+      "classes": "vjs-descriptions-button vjs-menu-button vjs-menu-button-popup vjs-button",
+      "attributes": {
+        "name": "",
+        "disabled": false,
+        "onclick": null
+      }
+    },
+    {
+      "element": "button",
+      "text": "",
+      "id": "",
+      "classes": "vjs-subs-caps-button vjs-menu-button vjs-menu-button-popup vjs-button",
+      "attributes": {
+        "name": "",
+        "disabled": false,
+        "onclick": null
+      }
+    },
+    {
+      "element": "button",
+      "text": "",
+      "id": "",
+      "classes": "vjs-audio-button vjs-menu-button vjs-menu-button-popup vjs-button",
+      "attributes": {
+        "name": "",
+        "disabled": false,
+        "onclick": null
+      }
+    },
+    {
+      "element": "button",
+      "text": "",
+      "id": "",
+      "classes": "vjs-picture-in-picture-control vjs-control vjs-button",
+      "attributes": {
+        "name": "",
+        "disabled": false,
+        "onclick": null
+      }
+    },
+    {
+      "element": "button",
+      "text": "",
+      "id": "",
+      "classes": "vjs-fullscreen-control vjs-control vjs-button",
+      "attributes": {
+        "name": "",
+        "disabled": false,
+        "onclick": null
+      }
+    },
+    {
+      "element": "button",
+      "text": "",
+      "id": "",
+      "classes": "vjs-default-button",
+      "attributes": {
+        "name": "",
+        "disabled": false,
+        "onclick": null
+      }
+    },
+    {
+      "element": "button",
+      "text": "",
+      "id": "",
+      "classes": "vjs-done-button",
+      "attributes": {
+        "name": "",
+        "disabled": false,
+        "onclick": null
+      }
+    },
+    {
+      "element": "button",
+      "text": "",
+      "id": "",
+      "classes": "vjs-close-button vjs-control vjs-button",
+      "attributes": {
+        "name": "",
+        "disabled": false,
+        "onclick": null
+      }
+    },
+    {
+      "element": "button",
+      "text": "",
+      "id": "",
+      "classes": "btn btn-secondary",
+      "attributes": {
+        "name": "",
+        "disabled": false,
+        "onclick": null
+      }
+    },
+    {
+      "element": "button",
+      "text": "",
+      "id": "",
+      "classes": "navbar-toggler navbar-toggler-right",
+      "attributes": {
+        "name": "",
+        "disabled": false,
+        "onclick": null
+      }
+    },
+    {
+      "element": "button",
+      "text": "Previous",
+      "id": "prev2",
+      "classes": "page-link",
+      "attributes": {
+        "name": "",
+        "disabled": false,
+        "onclick": null
+      }
+    },
+    {
+      "element": "button",
+      "text": "Next",
+      "id": "next2",
+      "classes": "page-link",
+      "attributes": {
+        "name": "",
+        "disabled": false,
+        "onclick": null
+      }
+    }
+  ],
+  "links": [
+    {
+      "text": "PRODUCT STORE",
+      "href": "https://demoblaze.com/index.html",
+      "id": "nava",
+      "classes": "navbar-brand",
+      "attributes": {
+        "target": "",
+        "title": "",
+        "rel": ""
+      }
+    },
+    {
+      "text": "Home\n(current)",
+      "href": "https://demoblaze.com/index.html",
+      "id": "",
+      "classes": "nav-link",
+      "attributes": {
+        "target": "",
+        "title": "",
+        "rel": ""
+      }
+    },
+    {
+      "text": "Contact",
+      "href": "https://demoblaze.com/",
+      "id": "",
+      "classes": "nav-link",
+      "attributes": {
+        "target": "",
+        "title": "",
+        "rel": ""
+      }
+    },
+    {
+      "text": "About us",
+      "href": "https://demoblaze.com/",
+      "id": "",
+      "classes": "nav-link",
+      "attributes": {
+        "target": "",
+        "title": "",
+        "rel": ""
+      }
+    },
+    {
+      "text": "Cart",
+      "href": "https://demoblaze.com/cart.html",
+      "id": "cartur",
+      "classes": "nav-link",
+      "attributes": {
+        "target": "",
+        "title": "",
+        "rel": ""
+      }
+    },
+    {
+      "text": "Log in",
+      "href": "https://demoblaze.com/",
+      "id": "login2",
+      "classes": "nav-link",
+      "attributes": {
+        "target": "",
+        "title": "",
+        "rel": ""
+      }
+    },
+    {
+      "text": "",
+      "href": "https://demoblaze.com/",
+      "id": "logout2",
+      "classes": "nav-link",
+      "attributes": {
+        "target": "",
+        "title": "",
+        "rel": ""
+      }
+    },
+    {
+      "text": "",
+      "href": "https://demoblaze.com/",
+      "id": "nameofuser",
+      "classes": "nav-link",
+      "attributes": {
+        "target": "",
+        "title": "",
+        "rel": ""
+      }
+    },
+    {
+      "text": "Sign up",
+      "href": "https://demoblaze.com/",
+      "id": "signin2",
+      "classes": "nav-link",
+      "attributes": {
+        "target": "",
+        "title": "",
+        "rel": ""
+      }
+    },
+    {
+      "text": "",
+      "href": "https://demoblaze.com/#carouselExampleIndicators",
+      "id": "",
+      "classes": "carousel-control-prev",
+      "attributes": {
+        "target": "",
+        "title": "",
+        "rel": ""
+      }
+    },
+    {
+      "text": "",
+      "href": "https://demoblaze.com/#carouselExampleIndicators",
+      "id": "",
+      "classes": "carousel-control-next",
+      "attributes": {
+        "target": "",
+        "title": "",
+        "rel": ""
+      }
+    },
+    {
+      "text": "Phones",
+      "href": "https://demoblaze.com/",
+      "id": "itemc",
+      "classes": "list-group-item",
+      "attributes": {
+        "target": "",
+        "title": "",
+        "rel": ""
+      }
+    },
+    {
+      "text": "Laptops",
+      "href": "https://demoblaze.com/",
+      "id": "itemc",
+      "classes": "list-group-item",
+      "attributes": {
+        "target": "",
+        "title": "",
+        "rel": ""
+      }
+    },
+    {
+      "text": "Monitors",
+      "href": "https://demoblaze.com/",
+      "id": "itemc",
+      "classes": "list-group-item",
+      "attributes": {
+        "target": "",
+        "title": "",
+        "rel": ""
+      }
+    },
+    {
+      "text": "",
+      "href": "https://demoblaze.com/prod.html?idp_=1",
+      "id": "",
+      "classes": "",
+      "attributes": {
+        "target": "",
+        "title": "",
+        "rel": ""
+      }
+    },
+    {
+      "text": "Samsung galaxy s6",
+      "href": "https://demoblaze.com/prod.html?idp_=1",
+      "id": "",
+      "classes": "hrefch",
+      "attributes": {
+        "target": "",
+        "title": "",
+        "rel": ""
+      }
+    },
+    {
+      "text": "",
+      "href": "https://demoblaze.com/prod.html?idp_=2",
+      "id": "",
+      "classes": "",
+      "attributes": {
+        "target": "",
+        "title": "",
+        "rel": ""
+      }
+    },
+    {
+      "text": "Nokia lumia 1520",
+      "href": "https://demoblaze.com/prod.html?idp_=2",
+      "id": "",
+      "classes": "hrefch",
+      "attributes": {
+        "target": "",
+        "title": "",
+        "rel": ""
+      }
+    },
+    {
+      "text": "",
+      "href": "https://demoblaze.com/prod.html?idp_=3",
+      "id": "",
+      "classes": "",
+      "attributes": {
+        "target": "",
+        "title": "",
+        "rel": ""
+      }
+    },
+    {
+      "text": "Nexus 6",
+      "href": "https://demoblaze.com/prod.html?idp_=3",
+      "id": "",
+      "classes": "hrefch",
+      "attributes": {
+        "target": "",
+        "title": "",
+        "rel": ""
+      }
+    },
+    {
+      "text": "",
+      "href": "https://demoblaze.com/prod.html?idp_=4",
+      "id": "",
+      "classes": "",
+      "attributes": {
+        "target": "",
+        "title": "",
+        "rel": ""
+      }
+    },
+    {
+      "text": "Samsung galaxy s7",
+      "href": "https://demoblaze.com/prod.html?idp_=4",
+      "id": "",
+      "classes": "hrefch",
+      "attributes": {
+        "target": "",
+        "title": "",
+        "rel": ""
+      }
+    },
+    {
+      "text": "",
+      "href": "https://demoblaze.com/prod.html?idp_=5",
+      "id": "",
+      "classes": "",
+      "attributes": {
+        "target": "",
+        "title": "",
+        "rel": ""
+      }
+    },
+    {
+      "text": "Iphone 6 32gb",
+      "href": "https://demoblaze.com/prod.html?idp_=5",
+      "id": "",
+      "classes": "hrefch",
+      "attributes": {
+        "target": "",
+        "title": "",
+        "rel": ""
+      }
+    },
+    {
+      "text": "",
+      "href": "https://demoblaze.com/prod.html?idp_=6",
+      "id": "",
+      "classes": "",
+      "attributes": {
+        "target": "",
+        "title": "",
+        "rel": ""
+      }
+    },
+    {
+      "text": "Sony xperia z5",
+      "href": "https://demoblaze.com/prod.html?idp_=6",
+      "id": "",
+      "classes": "hrefch",
+      "attributes": {
+        "target": "",
+        "title": "",
+        "rel": ""
+      }
+    },
+    {
+      "text": "",
+      "href": "https://demoblaze.com/prod.html?idp_=7",
+      "id": "",
+      "classes": "",
+      "attributes": {
+        "target": "",
+        "title": "",
+        "rel": ""
+      }
+    },
+    {
+      "text": "HTC One M9",
+      "href": "https://demoblaze.com/prod.html?idp_=7",
+      "id": "",
+      "classes": "hrefch",
+      "attributes": {
+        "target": "",
+        "title": "",
+        "rel": ""
+      }
+    },
+    {
+      "text": "",
+      "href": "https://demoblaze.com/prod.html?idp_=8",
+      "id": "",
+      "classes": "",
+      "attributes": {
+        "target": "",
+        "title": "",
+        "rel": ""
+      }
+    },
+    {
+      "text": "Sony vaio i5",
+      "href": "https://demoblaze.com/prod.html?idp_=8",
+      "id": "",
+      "classes": "hrefch",
+      "attributes": {
+        "target": "",
+        "title": "",
+        "rel": ""
+      }
+    },
+    {
+      "text": "",
+      "href": "https://demoblaze.com/prod.html?idp_=9",
+      "id": "",
+      "classes": "",
+      "attributes": {
+        "target": "",
+        "title": "",
+        "rel": ""
+      }
+    },
+    {
+      "text": "Sony vaio i7",
+      "href": "https://demoblaze.com/prod.html?idp_=9",
+      "id": "",
+      "classes": "hrefch",
+      "attributes": {
+        "target": "",
+        "title": "",
+        "rel": ""
+      }
+    }
+  ],
+  "inputs": [
+    {
+      "element": "input",
+      "type": "text",
+      "id": "recipient-email",
+      "classes": "form-control",
+      "attributes": {
+        "name": "",
+        "placeholder": "",
+        "value": "",
+        "required": false,
+        "disabled": false,
+        "readonly": false
+      }
+    },
+    {
+      "element": "input",
+      "type": "text",
+      "id": "recipient-name",
+      "classes": "form-control",
+      "attributes": {
+        "name": "",
+        "placeholder": "",
+        "value": "",
+        "required": false,
+        "disabled": false,
+        "readonly": false
+      }
+    },
+    {
+      "element": "input",
+      "type": "text",
+      "id": "sign-username",
+      "classes": "form-control",
+      "attributes": {
+        "name": "",
+        "placeholder": "",
+        "value": "",
+        "required": false,
+        "disabled": false,
+        "readonly": false
+      }
+    },
+    {
+      "element": "input",
+      "type": "text",
+      "id": "loginusername",
+      "classes": "form-control",
+      "attributes": {
+        "name": "",
+        "placeholder": "",
+        "value": "",
+        "required": false,
+        "disabled": false,
+        "readonly": false
+      }
+    },
+    {
+      "element": "input",
+      "type": "password",
+      "id": "sign-password",
+      "classes": "form-control",
+      "attributes": {
+        "name": "",
+        "placeholder": "",
+        "value": "",
+        "required": false,
+        "disabled": false,
+        "readonly": false
+      }
+    },
+    {
+      "element": "input",
+      "type": "password",
+      "id": "loginpassword",
+      "classes": "form-control",
+      "attributes": {
+        "name": "",
+        "placeholder": "",
+        "value": "",
+        "required": false,
+        "disabled": false,
+        "readonly": false
+      }
+    },
+    {
+      "element": "textarea",
+      "id": "message-text",
+      "classes": "form-control",
+      "attributes": {
+        "name": "",
+        "placeholder": "",
+        "rows": "2",
+        "cols": "20",
+        "required": false,
+        "disabled": false,
+        "value": ""
+      }
+    },
+    {
+      "element": "select",
+      "id": "",
+      "classes": "",
+      "attributes": {
+        "name": "",
+        "required": false,
+        "disabled": false,
+        "options_count": 8,
+        "options": [
+          {
+            "text": "",
+            "value": "#FFF",
+            "selected": true
+          },
+          {
+            "text": "",
+            "value": "#000",
+            "selected": false
+          },
+          {
+            "text": "",
+            "value": "#F00",
+            "selected": false
+          },
+          {
+            "text": "",
+            "value": "#0F0",
+            "selected": false
+          },
+          {
+            "text": "",
+            "value": "#00F",
+            "selected": false
+          },
+          {
+            "text": "",
+            "value": "#FF0",
+            "selected": false
+          },
+          {
+            "text": "",
+            "value": "#F0F",
+            "selected": false
+          },
+          {
+            "text": "",
+            "value": "#0FF",
+            "selected": false
+          }
+        ]
+      }
+    },
+    {
+      "element": "select",
+      "id": "",
+      "classes": "",
+      "attributes": {
+        "name": "",
+        "required": false,
+        "disabled": false,
+        "options_count": 2,
+        "options": [
+          {
+            "text": "",
+            "value": "1",
+            "selected": true
+          },
+          {
+            "text": "",
+            "value": "0.5",
+            "selected": false
+          }
+        ]
+      }
+    },
+    {
+      "element": "select",
+      "id": "",
+      "classes": "",
+      "attributes": {
+        "name": "",
+        "required": false,
+        "disabled": false,
+        "options_count": 8,
+        "options": [
+          {
+            "text": "",
+            "value": "#000",
+            "selected": true
+          },
+          {
+            "text": "",
+            "value": "#FFF",
+            "selected": false
+          },
+          {
+            "text": "",
+            "value": "#F00",
+            "selected": false
+          },
+          {
+            "text": "",
+            "value": "#0F0",
+            "selected": false
+          },
+          {
+            "text": "",
+            "value": "#00F",
+            "selected": false
+          },
+          {
+            "text": "",
+            "value": "#FF0",
+            "selected": false
+          },
+          {
+            "text": "",
+            "value": "#F0F",
+            "selected": false
+          },
+          {
+            "text": "",
+            "value": "#0FF",
+            "selected": false
+          }
+        ]
+      }
+    },
+    {
+      "element": "select",
+      "id": "",
+      "classes": "",
+      "attributes": {
+        "name": "",
+        "required": false,
+        "disabled": false,
+        "options_count": 3,
+        "options": [
+          {
+            "text": "",
+            "value": "1",
+            "selected": true
+          },
+          {
+            "text": "",
+            "value": "0.5",
+            "selected": false
+          },
+          {
+            "text": "",
+            "value": "0",
+            "selected": false
+          }
+        ]
+      }
+    },
+    {
+      "element": "select",
+      "id": "",
+      "classes": "",
+      "attributes": {
+        "name": "",
+        "required": false,
+        "disabled": false,
+        "options_count": 8,
+        "options": [
+          {
+            "text": "",
+            "value": "#000",
+            "selected": true
+          },
+          {
+            "text": "",
+            "value": "#FFF",
+            "selected": false
+          },
+          {
+            "text": "",
+            "value": "#F00",
+            "selected": false
+          },
+          {
+            "text": "",
+            "value": "#0F0",
+            "selected": false
+          },
+          {
+            "text": "",
+            "value": "#00F",
+            "selected": false
+          },
+          {
+            "text": "",
+            "value": "#FF0",
+            "selected": false
+          },
+          {
+            "text": "",
+            "value": "#F0F",
+            "selected": false
+          },
+          {
+            "text": "",
+            "value": "#0FF",
+            "selected": false
+          }
+        ]
+      }
+    },
+    {
+      "element": "select",
+      "id": "",
+      "classes": "",
+      "attributes": {
+        "name": "",
+        "required": false,
+        "disabled": false,
+        "options_count": 3,
+        "options": [
+          {
+            "text": "",
+            "value": "0",
+            "selected": true
+          },
+          {
+            "text": "",
+            "value": "0.5",
+            "selected": false
+          },
+          {
+            "text": "",
+            "value": "1",
+            "selected": false
+          }
+        ]
+      }
+    },
+    {
+      "element": "select",
+      "id": "",
+      "classes": "",
+      "attributes": {
+        "name": "",
+        "required": false,
+        "disabled": false,
+        "options_count": 9,
+        "options": [
+          {
+            "text": "",
+            "value": "0.50",
+            "selected": false
+          },
+          {
+            "text": "",
+            "value": "0.75",
+            "selected": false
+          },
+          {
+            "text": "",
+            "value": "1.00",
+            "selected": true
+          },
+          {
+            "text": "",
+            "value": "1.25",
+            "selected": false
+          },
+          {
+            "text": "",
+            "value": "1.50",
+            "selected": false
+          },
+          {
+            "text": "",
+            "value": "1.75",
+            "selected": false
+          },
+          {
+            "text": "",
+            "value": "2.00",
+            "selected": false
+          },
+          {
+            "text": "",
+            "value": "3.00",
+            "selected": false
+          },
+          {
+            "text": "",
+            "value": "4.00",
+            "selected": false
+          }
+        ]
+      }
+    },
+    {
+      "element": "select",
+      "id": "",
+      "classes": "",
+      "attributes": {
+        "name": "",
+        "required": false,
+        "disabled": false,
+        "options_count": 5,
+        "options": [
+          {
+            "text": "",
+            "value": "none",
+            "selected": true
+          },
+          {
+            "text": "",
+            "value": "raised",
+            "selected": false
+          },
+          {
+            "text": "",
+            "value": "depressed",
+            "selected": false
+          },
+          {
+            "text": "",
+            "value": "uniform",
+            "selected": false
+          },
+          {
+            "text": "",
+            "value": "dropshadow",
+            "selected": false
+          }
+        ]
+      }
+    },
+    {
+      "element": "select",
+      "id": "",
+      "classes": "",
+      "attributes": {
+        "name": "",
+        "required": false,
+        "disabled": false,
+        "options_count": 7,
+        "options": [
+          {
+            "text": "",
+            "value": "proportionalSansSerif",
+            "selected": true
+          },
+          {
+            "text": "",
+            "value": "monospaceSansSerif",
+            "selected": false
+          },
+          {
+            "text": "",
+            "value": "proportionalSerif",
+            "selected": false
+          },
+          {
+            "text": "",
+            "value": "monospaceSerif",
+            "selected": false
+          },
+          {
+            "text": "",
+            "value": "casual",
+            "selected": false
+          },
+          {
+            "text": "",
+            "value": "script",
+            "selected": false
+          },
+          {
+            "text": "",
+            "value": "small-caps",
+            "selected": false
+          }
+        ]
+      }
+    }
+  ],
+  "forms": [
+    {
+      "id": "",
+      "classes": "",
+      "attributes": {
+        "action": "https://demoblaze.com/",
+        "method": "GET",
+        "name": "",
+        "enctype": "application/x-www-form-urlencoded",
+        "inputs_count": 3,
+        "input_types": [
+          "textarea",
+          "text"
+        ]
+      }
+    },
+    {
+      "id": "",
+      "classes": "",
+      "attributes": {
+        "action": "https://demoblaze.com/",
+        "method": "GET",
+        "name": "",
+        "enctype": "application/x-www-form-urlencoded",
+        "inputs_count": 2,
+        "input_types": [
+          "password",
+          "text"
+        ]
+      }
+    },
+    {
+      "id": "",
+      "classes": "",
+      "attributes": {
+        "action": "https://demoblaze.com/",
+        "method": "GET",
+        "name": "",
+        "enctype": "application/x-www-form-urlencoded",
+        "inputs_count": 2,
+        "input_types": [
+          "password",
+          "text"
+        ]
+      }
+    },
+    {
+      "id": "",
+      "classes": "",
+      "attributes": {
+        "action": "https://demoblaze.com/",
+        "method": "GET",
+        "name": "",
+        "enctype": "application/x-www-form-urlencoded",
+        "inputs_count": 23,
+        "input_types": [
+          "button",
+          "select"
+        ]
+      }
+    },
+    {
+      "id": "frm",
+      "classes": "",
+      "attributes": {
+        "action": "https://demoblaze.com/",
+        "method": "GET",
+        "name": "frm",
+        "enctype": "application/x-www-form-urlencoded",
+        "inputs_count": 2,
+        "input_types": [
+          "button"
+        ]
+      }
+    }
+  ],
+  "metadata": {
+    "url": "https://demoblaze.com",
+    "timestamp": "2025-04-01T17:05:25.347795",
+    "domain": "demoblaze.com",
+    "title": "STORE",
+    "buttons_count": 28,
+    "links_count": 32,
+    "inputs_count": 16,
+    "forms_count": 5
+  }
+}
